@@ -1,5 +1,7 @@
 ### Hi there It's me Sungju(Jay) Park👋
 
+[![HitCount](http://hits.dwyl.com/mintchococookie/mintchococookie.svg)]
+
 Gist about me
 
 - 🔭 I’m currently working on data science and machine learning
