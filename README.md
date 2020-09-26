@@ -1,6 +1,6 @@
 ### Hi there It's me Sungju(Jay) Park👋
 
-[![HitCount](http://hits.dwyl.com/mintchococookie/mintchococookie.svg)]
+![HitCount](http://hits.dwyl.com/mintchococookie/mintchococookie.svg)
 
 Gist about me
 
