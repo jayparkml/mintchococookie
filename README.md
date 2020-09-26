@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there It's me Sungju(Jay) Park👋
 
-<!--
-**mintchococookie/mintchococookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gist about me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data science and machine learning
+- 🌱 I’m currently learning to master data visualization and building machine learning model
+- 🔥  I'm always looking for challenging work opportunites ahead
+- 🤔 I’m looking for help with finding my first place to work!
+- 📫 How to reach me: <a href='mailto:parksungju90@gmail.com'>Let's get in touch!</a>
+- ⚡ Fun fact: My cat's name is Dust since she is dust color
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other places you can find me
+
+🤝🏼🤝🏼[Let's get LinkedIn connected!!](https://www.linkedin.com/in/sungjupark0712/)
